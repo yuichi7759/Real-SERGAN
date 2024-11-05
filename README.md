@@ -270,3 +270,7 @@ Thanks for all the contributors.
 - [Asiimoviet](https://github.com/Asiimoviet): Translate the README.md to Chinese (中文).
 - [2ji3150](https://github.com/2ji3150): Thanks for the [detailed and valuable feedbacks/suggestions](https://github.com/xinntao/Real-ESRGAN/issues/131).
 - [Jared-02](https://github.com/Jared-02): Translate the Training.md to Chinese (中文).
+
+
+## local modification 
+- 20241103: added `inference_realesrgan_exif.py` 
